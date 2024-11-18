@@ -1,0 +1,6 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+utilisateurs		TAR	178	nouvelle taille enregistrement : 178
+utilisateurs	IDfonctions_utilisateurs	RUB+		IDfonctions_utilisateurs est une nouvelle clé
+utilisateurs	password	RUB+		password est une nouvelle rubrique
+fonctions_utilisateurs		NFI		nouveau fichier
+Contrainte_fonctions_utilisateurs_utilisateurs		NWL	fonctions_utilisateurs (IDfonctions_utilisateurs) et utilisateurs (IDfonctions_utilisateurs)	Nouvelle liaison entre les fichiers fonctions_utilisateurs (IDfonctions_utilisateurs) et utilisateurs (IDfonctions_utilisateurs)

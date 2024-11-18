@@ -1,0 +1,9 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+taches		TAR	25	nouvelle taille enregistrement : 25
+taches	IDprojets	RUB+		IDprojets est une nouvelle clé
+attributions		TAR	33	nouvelle taille enregistrement : 33
+attributions	IDtaches	RUB+		IDtaches est une nouvelle clé
+attributions	IDutilisateurs	RUB+		IDutilisateurs est une nouvelle clé
+Contrainte_taches_attributions		NWL	taches (IDtaches) et attributions (IDtaches)	Nouvelle liaison entre les fichiers taches (IDtaches) et attributions (IDtaches)
+Contrainte_utilisateurs_attributions		NWL	utilisateurs (IDutilisateurs) et attributions (IDutilisateurs)	Nouvelle liaison entre les fichiers utilisateurs (IDutilisateurs) et attributions (IDutilisateurs)
+Contrainte_projets_taches		NWL	projets (IDprojets) et taches (IDprojets)	Nouvelle liaison entre les fichiers projets (IDprojets) et taches (IDprojets)
