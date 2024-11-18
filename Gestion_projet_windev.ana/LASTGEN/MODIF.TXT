@@ -1,20 +1,6 @@
-//MO002-003.TXT ANA00002 TO ANA00003
-utilisateurs		TAR	119	nouvelle taille enregistrement : 119
-utilisateurs	nom	RUB+		nom est une nouvelle rubrique
-utilisateurs	email	RUB+		email est une nouvelle rubrique
-projets		TAR	2088	nouvelle taille enregistrement : 2088
-projets	nom	RUB+		nom est une nouvelle rubrique
-projets	description	RUB+		description est une nouvelle rubrique
-projets	date_debut	RUB+		date_debut est une nouvelle rubrique
-projets	date_fin	RUB+		date_fin est une nouvelle rubrique
-projets	status	RUB+		status est une nouvelle rubrique
-taches		TAR	2096	nouvelle taille enregistrement : 2096
-taches	nom	RUB+		nom est une nouvelle rubrique
-taches	description	RUB+		description est une nouvelle rubrique
-taches	date_debut	RUB+		date_debut est une nouvelle rubrique
-taches	date_fin	RUB+		date_fin est une nouvelle rubrique
-taches	statut	RUB+		statut est une nouvelle rubrique
-attributions		TAR	41	nouvelle taille enregistrement : 41
-attributions	IDroles	RUB+		IDroles est une nouvelle clé
-roles		NFI		nouveau fichier
-Contrainte_roles_attributions		NWL	roles (IDroles) et attributions (IDroles)	Nouvelle liaison entre les fichiers roles (IDroles) et attributions (IDroles)
+//MO003-004.TXT ANA00003 TO ANA00004
+utilisateurs		TAR	178	nouvelle taille enregistrement : 178
+utilisateurs	IDfonctions_utilisateurs	RUB+		IDfonctions_utilisateurs est une nouvelle clé
+utilisateurs	password	RUB+		password est une nouvelle rubrique
+fonctions_utilisateurs		NFI		nouveau fichier
+Contrainte_fonctions_utilisateurs_utilisateurs		NWL	fonctions_utilisateurs (IDfonctions_utilisateurs) et utilisateurs (IDfonctions_utilisateurs)	Nouvelle liaison entre les fichiers fonctions_utilisateurs (IDfonctions_utilisateurs) et utilisateurs (IDfonctions_utilisateurs)
