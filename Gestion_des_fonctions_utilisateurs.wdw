@@ -20,7 +20,7 @@ window :
      -
        name : Libellé1
        identifier : 0x273bbd2c0121d63e
-       internal_properties : BQAAAAUAAADxj/pfATOZ/40rGlzrWBKUz9FtLicfX/BRo+aJUr7xb+jBZsBPMGeSrGJXILe1EVDBqV6ChqoxNxtKdPuN68lKIX90pULmcgVJ57G+NaDPZB7r7OVa5tRZz0/SnLKFzTMhXg3BHJalkUNG3/sb9/c8g6kGbmgkxW9Q6UoH4FK420ROKNKJ8lBmFthGGGdKaT6arziXlRHEpz7yHlOlbtkwMNkY4sxiUxXmgIE4N7Wr/7XCTOnuR382NIefXvbntAhdlOgA0Kbws9WROMDHk/W5tdo2IpJY1WjDnPkDbD8ANFAmhLA1AHszzER2YRq0ue/c8Ha7Wo0GyElpgojZETDMJM4ZFuk61TNKp7UhXwH1Zl2zZjvIUK9gBl350+4rVxdyybplPYe9IxomvCJ+YeWIzRij0+RzmdqTIYYDSXCsMl0A3Z85NfCxMEmgHqP0sqlagf/33UnQi0lKedyIM6E/0CDCPVFtylhXGVfch5JLq7kdURNR4jsvgUYZa6ZsdBQF+JwK4zZTeUMyTNWZ2E9hjsa2pU7L8eqe+Ge6UmgjrQNInZmyqI3Kwk27kzY9mToyVhSsAsLrnJ85dC7MIZzhTDYaogiJ5kD/d0UlxGKZcUxHVRDtxm1dkXnQElHRc1d8Tw/WBJM=
+       internal_properties : BQAAAAUAAADzqt2AlUixd5m5Ne8TRujUAKebbQVxDbC2FePLHzk51KxnhKm6f49QspxQy5C3/RE/Xcma0/kqeSKqNC93I2e/eFCOVvY83uYku6GnuD8Y3+KGriCsTQDHNIEUZwMPoJGwpQ5xj+1ncwlk7TRTu9TTp+Yf1LAyHTTs/ke+mQ8n9dVK9/oclnpdeoRDxZVRMBHNMU5hgOQPMdNjSa5j99XttW/hO1dXjvB34oLN2/JhjI3noHvFN2dNghIMenwgn5w6TgE54ugH2zk+XJHKFVM7dimI7SlBPolx8oAko4Pn16xqCV0mHsrmbjbLu3CWpS2zfIk+yS2+Ax8cpfI6+5Zdxu9Zolm4Cwj2WFadHCWdvyMU6J2KiuW3BkRQzU/Nf2wKggQXi70N9EprMbh1k8NZHX35gXo5TTfp1FlLKkpKoT3hnUvRi4Q2ItZNTCBK+EZkJCGRzoTTmmuBCJdiRFSAd/CxyccpiX9Qw/toWzsHYCzCjVxY3OQVimiNwk57uX1l8R56hM06KVaWvbSqLGFm1AbqU6SI+Qc0RJO3GXcLKi8qn2Fmrkghgt7qQ0Au/mjAunMVwzqXbKV+wBWnK0iU8KG0HOnXO+UTEaEBTlAQAgXr2honHBxaMVcWI6q6LDCkB0jTF4NDlfMkkaII/gQ=
        type : 3
        code_elements :
         type_code : 2
@@ -157,6 +157,17 @@ window :
         type : 18
       -
         type : 161
+        enabled : false
+  -
+    name : PALDY_GP
+    identifier : 0x2740ba0000a67cfc
+    internal_properties : BQAAAAUAAAA4qqfdhP0SC8lfgdssLMEQkwcctEEzsLycASrTPOwij53xK733NRcINcIjjdleLXkjNGmgZPRh+EmtR2xn5yZYWF0eh0lm9xddGHtxCo60Zgk+l9ixiBibjhUGRVNRLk+zH89rze6s5O3hwMaqibeQYcjl8htQwYhq4AA69wI5P88Im4N9UoLdYWfVJZfWLnkYE+rnV6yrg163qAV6JmtkthW6pgfeZW2zehT/CpTYCbNt7lcy6sD/6NOD0VNhC7WFu9fhimvJPHnhJNM480x40BS4hVhL2v+YBCTdx4oGtuaxNMhdSBBJU+C7PQyShPwzZPHI6QuosmcmXNAms29+ey9gSGJ4JRGP3RDmCoxIk8zBzNFtYV11YIB0VX4SbbBDwz3ujPgS9iYLNw/QkCKk8txbMtEQzCHXY25Qdg4+h+c7ZWz2Lo3Mck12KDR0LIFn71R1eSygX5KS/bVFio23P62sTUKScmiXaH9How==
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        type : 18
         enabled : false
  menu :
   name : _Menu

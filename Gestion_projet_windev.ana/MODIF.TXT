@@ -1,2 +1,3 @@
-//MO004-005.TXT ANA00004 TO ANA00005
-fonctions_utilisateurs	designatin	NNR	description	ATTENTION : la rubrique description a pour nouveau nom designatin
+//MO005-006.TXT ANA00005 TO ANA00006
+utilisateurs		TAR	182	nouvelle taille enregistrement : 182
+utilisateurs	admin	RUB+		admin est une nouvelle rubrique

@@ -11,7 +11,67 @@ window :
  name : Login
  identifier : 0x273bb5970076376a
  internal_properties : BQAAAAUAAABURXdf/DUepHY1nkM21Msyyy4+qljURqcq+sfE3hGYw5xyaxC8JUuz2o9VOg23RE0WS1GFOz/VOp+Q6VMjJB5Rg5Bu9xWZaOk3TBqU9V7ZEC7iBWRvNJn3T7qWhNwBXqw4pliMA99JDiXk8X/8qTDBEwy9OFvdV6yOPnf8V6L52riu7Fo4xhb6NKLolZQSBdinnN/4xSRHkU3TkEgppkkp5xjIgO6c8xqt+MtWCbcHJc7/V9f3DLF/vRiYR3gs6xy1htHGXq72K6sJxCSZhJVIK4HGz5qIuT5VgpuINH13ypaOkZnwcXPnjdLlYgoF4IOWUNFFtpa30t2a4hAiBmzeQ8mJRDorApC9FmEtIOIUvnS5ZRtD1FLII03Yehmz22ZGffu+XE+vn1E6f7+nl/MhcgkAOjTIwiRjYEYiryjRMCWgWMjupE5MWuTzGLXEbmmGpck36U52zJAuTr7G8VP4Bztp6sqsgaYOXvAI85YAj0IfSkfJx083XJlICWB8UZyfsuN/RyfFnFLvh/mJEh0YSHM5lq+t1Yu+KZUdLFy9creiBqy3o9/TG4YCogFJ6xV0kYtHiOO9Otbj12DNebhd2hUfAXa05JHnt7myybPhfA0oeA3o9ktI/toL6ez/9LFRepdDe0F9vA==
- controls : []
+ controls :
+  -
+    name : EMAIL
+    identifier : 0x2740b9ce0089bcf8
+    internal_properties : BQAAAAUAAAAspqVNjKgUv21NpcjX+maSQ32kdOEvoyW10AoofA9McG4sWcZux5DzGTq0aHqRcu2VBEScv6ORHXMn1gkPqxaPtzIAbuKkjpTOyDO87Hlcw1ZvSVHW5gwbNi55ZL/qCUbKAPb+1OTuo8y8YSEoYahJAZeEMEowr6j7SsI2Cu1/LIvBCBwsM4vt8jKd64OKH7FJDGo3Y1lULFBSYRHRIs+QGw9Y8x4cuI1fIfqdt4RQqTrVMhQMYgybEO1J+lrd5EexBzxsT9yra+b7RYkUlkn3VZOcBs8fpPFy0/aLrhqI/eDMy4GYi8t6ec6neG7UyEVBNFAGDd9yQJnJRMtoUOtB+4XlEz3wApclwL08tsrAxoaO3ijgWh1EEEYM5uBBZEfoL5TB5uNoDUncJzu/8W51Y1rf+SdWUyS/BwhIqbUaA28TZS82jjwUYTHzSRPtsEO/blYRp7StKPBNfrFinCIVpsMQeX5Yc4kFTpe8/H8cmxFSLMa2w5gkPXLYuCJ5J6k3mKkvQND1ErBWujhjLDoCLcgVn/bk3oM8gLOsiEt34Olw3KU5bLGQcq39MWAtWVGb7qt1Dw1Tnehi8Z+oU9tiUsDP/MEHElg7+hHXfVq8g82MXe1JXo7nKDcXX81n0UWdgwcIO2PYGb/K+6Qo8XZgvtXaSKLUGgm0oV7I88Fl4CFRJdnMCSzWko9WVLi4XD1b4H6ZaLXLbVJisJ8/eiI8laSGqd6KT3RC9Uiu5skudQlFmIQv2waMs9OOeHKbVWYN9U+eUptx8pZP7XOLOMhJidA12OxbpEzFcMEpWVSKvyBv9TaSGaUX0k4fcZ9bXcGHtnpW8b3pJYr5HrLBihxZUSkbYJfH7MoDTwZ+91qkJVoXhuN+MsYc2y1m1l+4EtF62wapjoICmq+ZtNLQ+efOrRemyY30vV0vAh++4W0LNhTTCUEqSKln+GlCY0MJCs6yqG/49cLJIk/fqNwPmfF4wlWpO37kuKGBkaSoAl+wmYrE34Nq26SEq0T0sFvgsjMFljsNQdMqokSWZtxySP2vz3PDoRhrGwVDYlDWKWqjr1SLbdL0WK8=
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : PASSWORD
+    identifier : 0x2740b9ce008bbd37
+    internal_properties : BQAAAAUAAACkIkXghw5atN4ncP/c48/jvgbWLBDKjHeaORPBbZDTTQ7ny/LJ4CPFxE/mH3fdlzTMk0KGMlzfNcxOFK/fIu8dDB/oNEgiwwi6DsKTg3kvxggm/Fbz+ePMXjofXIu6iOuyiMcw8LuZma4evgNUJJsBk6nNFR/G72jcVcwSGnPYN47fe67jpClX2flj+pYKvqXFctW769xozzAXQqINpXNhsHtWxs9XVV7U5whMI9iQ4+rcuvcC2oLs/rV1xHaXi+htKxi96VI7Im2i7+oDG9dnFEG8yYCJhS63Dfr839WkuNK+PHNKkfWgzuau1uKmYZN2RG8sH0tPVrgNRRh9pSXQvJ/sikhZZuGSG3nRU9aTWa8rwFQUWh1wY+L2AQfWr8nXy9H59lVziGOsaki8MEoQY4R9xf5g170XAkPl+CQo4cuZg1kbjjTlV2WSo4p5ZAmRYp2FXNyyqW4mk6/s8kQ9dN6TsBgZh1Z5w9qWjNAk9Bp/FcSoNNRnADXUBhpnwmhb64PNaiyNTsyoHVxFUVxJOU8X+sg5gk5+ddZWfUMJ/6Juj9izvPftgroIMxUdUSKmyLCos/Ob+LLlSgHJjzVTGboMeylZFvWB2bb5sJzuxFAsQjvdpEP3OyyDfee3hyPfm1kS2dn78CkC2mctyBOC5PK8onWnHNDauPOuJjnTuY+bdErLSDF0OSQs99lkIKSkXE+GCEOTPCgkP1s8+CKfzDyRMDfHmnCJ0P8m8sYcLGIlpVs12+oWG6x1ok4wYvEamcUi3CYTbhjAvs9nD7/0YEZ63TKaZMdSYxfg9EFfa8n9zrPcUm6hfGm7djtN8RphKfJkNOufIuhaFFvpElUYQAv7hEdJOTdI+gWgrzqhrPQQ0RnoRv+rw3b3IhggdixW8dhLcZeYTVdKy1lQDC7VQIQ/bJam8TQrpdPJffZW9YOTRgK+3v9CS86Xy5YSxaYsInnYbuQEq065MAaAXvys2Myvvzw3MMDKLUxN8W9JSUf6VE9ODS6gsp2Dm1GgxuLfG0kB6IuJ2y8/7KOfhdO/VnAbbIo/hJEvqhptR+n8bmvE6xq5WhVrajUwWw==
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SE_CONNECTER
+    identifier : 0x2740b9ce008dbd37
+    internal_properties : BQAAAAUAAAB1XFU2LSAjepYlZJektNwHhyJ8zKm4AcI3poDyG3OmvOocjbXFU9V1NcvvsWJQ9GNgO4oejR1YHiBwiy5coOAz7yQh31DCW6gR+1Fuv0zaTTMKGLE84Xdt7ZtE/+pDBduFTJXJuZMSpDIsaK+sdnNQnp9W8H3Et0Ke/P3lg9b1p5PjjyUjRCs51MRtRii5cpJ63SnKgreuCqohf7XOpSuviQOC+qa5I9Hyu6BrpwOi0bRZa1eoJUc4DzCnuSthSpr+N/FJb4JEa8Ff0qtdUnHU/t02pvRZz4blSw6NhAC3lGl5cthBB9rR5Tx4CkOceTV/Nnarz0/RmZKNECa1nAsIRWdHUiP4E9Ir3Pfo4NC0FIRPV8DtvEbKqfFPPjka/0FTA8rwsfMNJ0V8MWjNaigpJz/i3mT1SeYrbA3Ai9w6P08wzUB8P3k+VXx1RnT89UHmswUk4IRK09Aikz/SoK1XMZewv2YWJYJjNIXYxcmHjazIwR1ioFtyL/NRHiVaxcDah9necejLJLp0rtnUeWt8On/qHm2wIVoRXVPh9W/gRx/rFK4hAv7f75hSZlKWHweb2oM3/lJQ8YOIyEu+W/Q9Bo0jSRhSbJqskQmR5KzxlGJy84RCY1WuzXs7MJHpt4/likTApMMlhjATblW4FMZ7PG2ZRRDkl62skYOSIqN8iMYzabE/gQ96P/+gGGJ1n4Pyg5RnhwzioLTcc7vpwjc9r3Dh5USzhhNgU0N+F5pmJyjnF0oxdRvZN/7mox2MIeOqCCBjskFXMIOYxhEqRMEk892jBGlcHBHWoXV/tAlwPuG/xQbVumzfTOWulkTB7lGEdMlCl6ZKm2rxRfZ+EM2xBM3TTptW2ILLdvI=
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         login(EMAIL,PASSWORD)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : PALDY_GP
+    identifier : 0x2740b9f7008f5ca3
+    internal_properties : BQAAAAUAAAAbqa3zPCRiMLAbEty6WK8+Rf6g2fsZxQz4h2BsIJDJ93dsDmPE5Zyl3uiyKCKm+Jj1YVkRZqG+sbEpWEhHH84xTsKrisBnWkOkRF1ecKkFLkp1jQiIPZYZxWTt14QOH0aqcuLLefsyRaxoaljNZ/J0mtdvfwH15dEZ39jQsjErXAjAr60j11R2QYekAQ99uQqUVv8AIA9iqI7sXTsguJlY79tDYjVI+lc/l/xs+ogTMKYBoNu8eXqdp012sCn695OIps63AJ3rx4KxS7apWyVA1k/bpVLGrm5hpllfWqQAL37QugazCRxWkmPN7Ayh/O6eW+GWwh3vYfFI7xsPHpbxWsrft24uPv6yy5dKk5wW+dE+FdludSxCepQpkgCkRfvF2cX8f9isc75LxmL80wgT3io2nz/q93mDVQepPI1iIN61AXY6FX9EmjkRx4HMflplATZ0UW5T4qjvA25yy4pasWe0seBxDqTSOfH4hi0=
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        type : 18
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
@@ -31,6 +91,36 @@ window :
    -
      type : 230
      enabled : false
+  procedures :
+   -
+     name : login
+     procedure_id : 1675550189089849539
+     type_code : 14
+     code : |1+
+      procédure login (_email est une chaine, mdp est une chaîne)                              
+      si _email ="" ALORS
+      	Info("email requis")
+      	RepriseSaisie(EMAIL)
+      FIN
+      
+      si mdp = "" ALORS
+      	Info("mot de passe requis")
+      	RepriseSaisie(PASSWORD)
+      FIN
+      
+      HExécuteRequête(Requête_Login,hRequêteDéfaut,_email,mdp)
+      
+      si Requête_Login.NbEnr() =  0  ALORS
+      	Info(<§$0000§>)
+      sinon
+      	Info("Connexion réussie")
+      	userConnecteId = Requête_Login.IDutilisateurs
+      	ouvre(Creation_compte_utilisateur)
+      FIN
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
  code_parameters :
   internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
   original_name : Modele1
@@ -38,6 +128,12 @@ resources :
  string_res :
   identifier : 0x173bb59000021d99
   internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+  strings :
+   -
+     text :
+      fr-FR : Aucun compte ne correspond à ces informations
+      en-GB : No form matches the search
+     index : 0
 custom_note :
  internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
 rad :
